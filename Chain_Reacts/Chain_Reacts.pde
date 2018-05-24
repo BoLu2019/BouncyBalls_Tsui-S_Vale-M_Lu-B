@@ -1,0 +1,71 @@
+Ball b1 = new Ball();
+Ball b2 = new Ball();
+Ball b3 = new Ball();
+Ball b4 = new Ball();
+Ball b5 = new Ball();
+Ball b6 = new Ball();
+Ball b7 = new Ball();
+Ball b8 = new Ball();
+Ball b9 = new Ball();
+Ball b10 = new Ball();
+Ball b11 = new Ball();
+Ball b12 = new Ball();
+Ball b13 = new Ball();
+Ball b14 = new Ball();
+Ball b15 = new Ball();
+Ball b16 = new Ball();
+Ball b17 = new Ball();
+Ball b18 = new Ball();
+Ball b19 = new Ball();
+Ball b20 = new Ball();
+Ball b21 = new Ball();
+Ball b22 = new Ball();
+Ball b23 = new Ball();
+Ball b24 = new Ball();
+Ball b25 = new Ball();
+Ball b26 = new Ball();
+Ball b27 = new Ball();
+Ball b28 = new Ball();
+Ball b29 = new Ball();
+Ball b30 = new Ball();
+
+void setup() {
+  size(600, 600);
+  background(0);
+  noStroke();
+  ellipseMode(RADIUS);
+}
+
+void draw() {  
+  background(0);
+  b1.move();
+  b2.move();
+  b3.move();
+  b4.move();
+  b5.move();
+  b6.move();
+  b7.move();
+  b8.move();
+  b9.move();
+  b10.move();
+  b11.move();
+  b12.move();
+  b13.move();
+  b14.move();
+  b15.move();
+  b16.move();
+  b17.move();
+  b18.move();
+  b19.move();
+  b20.move();
+  b21.move();
+  b22.move();
+  b23.move();
+  b24.move();
+  b25.move();
+  b26.move();
+  b27.move();
+  b28.move();
+  b29.move();
+  b30.move();
+}
